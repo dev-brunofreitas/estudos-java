@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -16,6 +17,13 @@ build/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+=======
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+>>>>>>> 5a0041152e90bd1c28e5b6ffd341bc376f284848
 
 ### Eclipse ###
 .apt_generated
